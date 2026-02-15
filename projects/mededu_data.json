@@ -1,0 +1,55 @@
+{
+    "user": {
+        "name": "Meryem",
+        "surname": "Beghanova",
+        "goal": "I want to become a biomedical engineer"
+    },
+    "topics": [
+        {
+            "id": 1,
+            "name": "Skeletal Bones",
+            "category": "Anatomy",
+            "difficulty": "Medium",
+            "created_at": "2026-02-13",
+            "study_sessions": [],
+            "notes": [
+                {
+                    "title": "\"Study this topic for 2 hours\"",
+                    "content": "Reminder"
+                }
+            ],
+            "quiz": {
+                "questions": [
+                    {
+                        "question": "How many bones are in the human adult body?",
+                        "answer": "206"
+                    },
+                    {
+                        "question": "Which bone protects the brain?",
+                        "answer": "skull"
+                    },
+                    {
+                        "question": "What substance is found inside bones to produce blood cells?",
+                        "answer": "Bone marrow"
+                    }
+                ],
+                "total_attempts": 0,
+                "best_score": 0
+            }
+        },
+        {
+            "id": 2,
+            "name": "Meryem",
+            "category": "Beghanova",
+            "difficulty": "1",
+            "created_at": "2026-02-13",
+            "study_sessions": [],
+            "notes": [],
+            "quiz": {
+                "questions": [],
+                "total_attempts": 0,
+                "best_score": 0
+            }
+        }
+    ]
+}
